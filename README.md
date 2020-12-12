@@ -8,23 +8,23 @@ Feel Explorer is a blockchain explorer designed for interaction with Feel networ
 
 Feel Explorer is a feature-rich single page browser application with following functionalities:
 
-- [Transaction browser](https://explorer.feel.surf/txs/)
+- [Transaction browser](http://f39e.feel.surf/txs/)
   - Shows transactions with their details stored in the blockchain
   - Supports all transaction types with its metadata
   - Allows advanced filtering by date, type, amount etc.
 
-- [Block browser](https://explorer.feel.surf/blocks/)
+- [Block browser](http://f39e.feel.surf/blocks/)
   - Shows blocks with their details stored in the blockchain
 
-- [Account browser](https://explorer.feel.surf/address/6307579970857064486F)
+- [Account browser](http://f39e.feel.surf/address/6307579970857064486F)
   - Supports various account types
   - Allows advanced transaction filtering on per-account basis
 
-- [Delegate monitor](https://explorer.feel.surf/delegateMonitor)
+- [Delegate monitor](http://f39e.feel.surf/delegateMonitor)
   - Shows information about all register delegate accounts
   - Live status of the 101 active delegates
 
-- [Network monitor](https://explorer.feel.surf/networkMonitor)
+- [Network monitor](http://f39e.feel.surf/networkMonitor)
   - Shows live information about all nodes
   - Shows active and disconnected nodes
   - Public IPs are shown with domain names and geographical location
@@ -84,9 +84,6 @@ The test suite is described in [Run Tests](/docs/run_tests.md) section.
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Found a bug               | [Create new issue](https://github.com/feelfoundation/feel-explorer/issues/new)                                                           |
 | Want to develop with us   | [Read Contribution Guidelines](https://github.com/feelfoundation/feel-explorer/blob/development/docs/CONTRIBUTING.md)                    |
-| Have ideas to share       | [Come to Feel.chat](http://feel.chat)                                                                                            |
-| Want to involve community | [Join community gitter](https://gitter.im/feelfoundation/feel?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) |
-| Found a security issue    | [See our bounty program](https://blog.feel.surf/announcing-feel-bug-bounty-program-5895bdd46ed4)                                   |
 
 ## Contributors
 
