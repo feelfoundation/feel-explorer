@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+
+  feel-explorer:
+    depends_on:
+      - feel
+    networks:
+      - feel
